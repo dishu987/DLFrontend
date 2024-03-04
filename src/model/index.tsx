@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
-import sample1 from "./../assets/sample1.jpg";
-import sample2 from "./../assets/sample2.jpg";
-import sample3 from "./../assets/sample3.jpg";
+// import sample1 from "./../assets/sample1.jpg";
+// import sample2 from "./../assets/sample2.jpg";
+// import sample3 from "./../assets/sample3.jpg";
 
 const ModelDL = () => {
   const [loading, setLoading] = useState<boolean>(false);
