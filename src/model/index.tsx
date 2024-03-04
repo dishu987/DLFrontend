@@ -87,8 +87,8 @@ const ModelDL = () => {
             "Upload"
           )}
         </button>
-        <hr />
-        <h4>Try with example Images:</h4>
+        {/* <hr /> */}
+        {/* <h4>Try with example Images:</h4>
         <div className="w-100 d-flex my-3  justify-content-around flex-wrap">
           <img
             style={{ width: "400px", cursor: "pointer" }}
@@ -121,7 +121,7 @@ const ModelDL = () => {
             className="img-thumbnail"
             alt="sample image"
           />
-        </div>
+        </div> */}
       </div>
       <h1 className="text-success mt-5">Output Image:</h1>
       <hr />
